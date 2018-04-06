@@ -4,6 +4,6 @@
 * Lab Status: Complete
 * Compilation and execution instructions:
   * `gcc -o piku piku.s`
-  * `./piku
+  * `./piku`
 * For `ldr r0, =message1` why is `=` needed?
 
